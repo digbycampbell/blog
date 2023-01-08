@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog</title>
+    <link>https://digbycampbell.github.io/</link>
+    <description>Recent content on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 08:45:06 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 / Who invented bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/6-satoshi/</link>
+      <pubDate>Mon, 21 Feb 2022 08:45:06 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/6-satoshi/</guid>
+      <description>On the 18th August 2008, an individual or group who called themselves Satoshi Nakamoto registered the domain name bitcoin.org, and created a website.
+This pseudonym was used from then on and is credited as the author of the bitcoin white paper, and the first release of the bitcoin software.
+Satoshi continued to interact with other developers and the bitcoin community until 2010 when his pseudonym ceased to be active online in the community, and he handed over control of the bitcoin software and website.</description>
+    </item>
+    
+    <item>
+      <title>5 / Can I buy things with bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/5-buy-with-bitcoin/</link>
+      <pubDate>Mon, 21 Feb 2022 08:37:50 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/5-buy-with-bitcoin/</guid>
+      <description>If you try to pay for something using bitcoin the merchant may or may not accept it, as is their choice.
+Bitcoin is still a new technology, and only a small number of people know about it or use it. Many people are skeptical and don’t think it has value.
+As more and more people become willing to accept bitcoin for goods and services, the more likely you will be able to spend it.</description>
+    </item>
+    
+    <item>
+      <title>4 / Is bitcoin safe</title>
+      <link>https://digbycampbell.github.io/posts/4-is-bitcoin-safe/</link>
+      <pubDate>Thu, 03 Feb 2022 08:36:23 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/4-is-bitcoin-safe/</guid>
+      <description>Dishonest actors on the bitcoin network could try to rewrite the ledger so that they have more bitcoin.
+The bitcoin software relies on cryptography to protect the ledger. The designer of bitcoin chose trusted cryptography techniques, and combined them in a creative way to build a security system.
+One of the main principles implemented is Proof of Work, a system which forces members of the network to spend computing power to compete for the right to write transactions to the ledger.</description>
+    </item>
+    
+    <item>
+      <title>3 / Why is bitcoin useful?</title>
+      <link>https://digbycampbell.github.io/posts/3-why-bitcoin/</link>
+      <pubDate>Wed, 02 Feb 2022 16:35:06 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/3-why-bitcoin/</guid>
+      <description>If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
+This is not the case for as many as 2.</description>
+    </item>
+    
+    <item>
+      <title>2 / Using bitcoin as money</title>
+      <link>https://digbycampbell.github.io/posts/2-using-bitcoin/</link>
+      <pubDate>Tue, 01 Feb 2022 21:28:55 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/2-using-bitcoin/</guid>
+      <description>Bitcoin keeps a ledger of transactions between participants on the bitcoin network.
+When Andreas and Barry would like to conduct a transaction on the bitcoin network, Andreas sends bitcoin he controls to Barry&amp;rsquo;s address, and the transaction is denominated in bitcoin units (BTC).
+The bitcoin ledger was designed to be used as money, but a bitcoin transaction and the bitcoin network is independent from existing financial and banking systems. Because bitcoin is independent of existing monetary and financial networks, it is possible to use bitcoin anywhere in the world with access to the internet.</description>
+    </item>
+    
+    <item>
+      <title>1 / Bitcoin is software</title>
+      <link>https://digbycampbell.github.io/posts/1-bitcoin-is-software/</link>
+      <pubDate>Tue, 01 Feb 2022 09:38:33 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/1-bitcoin-is-software/</guid>
+      <description>The bitcoin software connects thousands or millions of computers of people who choose to participate, and monitors and enables transactions between participants on the network.
+The software distributes (a maximum of) 21 million bitcoin, which participants of the network can use to transact with one another. Each bitcoin is divisible to be more practical to use.
+Humans&#39; desires to transact facilitated the emergence of money, a technology with a long history of development.</description>
+    </item>
+    
+  </channel>
+</rss>

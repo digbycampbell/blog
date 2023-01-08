@@ -1,0 +1,25 @@
+baseURL = 'https://digbycampbell.github.io'
+languageCode = 'en-us'
+title = 'blog'
+theme = "ananke"
+enableInlineShortcodes = true
+
+[taxonomies]
+#  category = "categories"
+#  tag = "tags"
+  series = "series"
+
+
+[params]
+  head_classes = "baskerville"
+  post_content_classes = "baskerville"
+
+
+#  h1_content_classes = "baskerville bg-near-white"
+#  commentoEnable = true
+  site_logo = "djc-wht.png"
+
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/digbycampbell"
