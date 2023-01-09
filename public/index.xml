@@ -6,70 +6,126 @@
     <description>Recent content on blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 08:45:06 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 14:49:52 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>6 / Who invented bitcoin?</title>
-      <link>https://digbycampbell.github.io/posts/6-satoshi/</link>
-      <pubDate>Mon, 21 Feb 2022 08:45:06 +1300</pubDate>
+      <title>Command Line</title>
+      <link>https://digbycampbell.github.io/posts/command-line/</link>
+      <pubDate>Mon, 09 Jan 2023 14:49:52 +1300</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/6-satoshi/</guid>
-      <description>On the 18th August 2008, an individual or group who called themselves Satoshi Nakamoto registered the domain name bitcoin.org, and created a website.
-This pseudonym was used from then on and is credited as the author of the bitcoin white paper, and the first release of the bitcoin software.
-Satoshi continued to interact with other developers and the bitcoin community until 2010 when his pseudonym ceased to be active online in the community, and he handed over control of the bitcoin software and website.</description>
+      <guid>https://digbycampbell.github.io/posts/command-line/</guid>
+      <description>Command line is a way to control files, folders and applications on your computer by using text commands instead of using a mouse.
+Command line feels a little bit like writing a piece of legislation about something simple - it seems clunky to have to describe in words, but its very precise.
+I&amp;rsquo;ve used command line before so I didn&amp;rsquo;t have any issue doing this section quickly - I used: ls - list folder contents cd - change directory ~ - return to home directory cat - print out a file contents less - file viewer touch - create new file</description>
     </item>
     
     <item>
-      <title>5 / Can I buy things with bitcoin?</title>
-      <link>https://digbycampbell.github.io/posts/5-buy-with-bitcoin/</link>
-      <pubDate>Mon, 21 Feb 2022 08:37:50 +1300</pubDate>
+      <title>01 / Bitcoin is software</title>
+      <link>https://digbycampbell.github.io/posts/1-bitcoin-is-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/5-buy-with-bitcoin/</guid>
+      <guid>https://digbycampbell.github.io/posts/1-bitcoin-is-software/</guid>
+      <description>The bitcoin software connects the thousands or millions of computers of people who choose to participate and monitors and enables transactions between participants on the network.
+The software distributes (a maximum of) 21 million bitcoin, which participants of the network can use to transact with one another. Each bitcoin is divisible, to be more practical to use.
+The special innovation of the bitcoin software means that participants can transact using the network without needing to trust one another, or without the help of a trusted third party.</description>
+    </item>
+    
+    <item>
+      <title>02 / Using bitcoin as money</title>
+      <link>https://digbycampbell.github.io/posts/2-using-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/2-using-bitcoin/</guid>
+      <description>Humans&#39; desire to transact and trade with one another facilitated the emergence of money, a technology with a long history of development. Bitcoin is the latest of these technological developments.
+Bitcoin can be used like money, because it keeps a secure ledger of all transactions between participants on the bitcoin network, like dollars in a bank account.
+When Andreas and Barry would like to conduct a transaction on the bitcoin network, Andreas sends bitcoin he controls to Barry&amp;rsquo;s address, and the transaction is denominated in bitcoin units (BTC).</description>
+    </item>
+    
+    <item>
+      <title>03 / Does bitcoin have value?</title>
+      <link>https://digbycampbell.github.io/posts/3-bitcoin-value/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/3-bitcoin-value/</guid>
+      <description>Bitcoin is still a new technology, and only a small number of people know about it or use it. Many people are skeptical and don’t think it has value.
+What bitcoin is “worth” is determined by demand, similar to how gold has had value for thousands of years and until today.
+Because there will only ever be a fixed number of bitcoin, as adoption of the bitcoin network increases there will be less bitcoin to satisfy demand, and the price will rise.</description>
+    </item>
+    
+    <item>
+      <title>04 / Can I buy things with bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/4-buy-with-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/4-buy-with-bitcoin/</guid>
       <description>If you try to pay for something using bitcoin the merchant may or may not accept it, as is their choice.
-Bitcoin is still a new technology, and only a small number of people know about it or use it. Many people are skeptical and don’t think it has value.
-As more and more people become willing to accept bitcoin for goods and services, the more likely you will be able to spend it.</description>
+The more people willing to accept bitcoin for goods and services, the more likely you will be able to spend it.
+There are some third-party services designed to make it easier to make payments in bitcoin, like Shopify integrations.
+Eventually, when many people own bitcoin and would like to earn more bitcoin, it will be normal to buy things with bitcoin.</description>
     </item>
     
     <item>
-      <title>4 / Is bitcoin safe</title>
-      <link>https://digbycampbell.github.io/posts/4-is-bitcoin-safe/</link>
-      <pubDate>Thu, 03 Feb 2022 08:36:23 +1300</pubDate>
+      <title>05 / Why is bitcoin useful?</title>
+      <link>https://digbycampbell.github.io/posts/5-why-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/4-is-bitcoin-safe/</guid>
+      <guid>https://digbycampbell.github.io/posts/5-why-bitcoin/</guid>
+      <description>If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
+This is not the case for as many as 2.</description>
+    </item>
+    
+    <item>
+      <title>06 / Is bitcoin safe?</title>
+      <link>https://digbycampbell.github.io/posts/6-is-bitcoin-safe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/6-is-bitcoin-safe/</guid>
       <description>Dishonest actors on the bitcoin network could try to rewrite the ledger so that they have more bitcoin.
 The bitcoin software relies on cryptography to protect the ledger. The designer of bitcoin chose trusted cryptography techniques, and combined them in a creative way to build a security system.
 One of the main principles implemented is Proof of Work, a system which forces members of the network to spend computing power to compete for the right to write transactions to the ledger.</description>
     </item>
     
     <item>
-      <title>3 / Why is bitcoin useful?</title>
-      <link>https://digbycampbell.github.io/posts/3-why-bitcoin/</link>
-      <pubDate>Wed, 02 Feb 2022 16:35:06 +1300</pubDate>
+      <title>07 / Who invented bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/7-satoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/3-why-bitcoin/</guid>
-      <description>If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
-This is not the case for as many as 2.</description>
+      <guid>https://digbycampbell.github.io/posts/7-satoshi/</guid>
+      <description>On the 18th August 2008, an individual or group who called themselves Satoshi Nakamoto registered the domain name bitcoin.org, and created a website.
+This pseudonym was used from then on and is credited as the author of the bitcoin white paper, and the first release of the bitcoin software.
+Satoshi continued to interact with other developers and the bitcoin community until 2010 when his pseudonym ceased to be active online in the community, and he handed over control of the bitcoin software and website.</description>
     </item>
     
     <item>
-      <title>2 / Using bitcoin as money</title>
-      <link>https://digbycampbell.github.io/posts/2-using-bitcoin/</link>
-      <pubDate>Tue, 01 Feb 2022 21:28:55 +1300</pubDate>
+      <title>08 / Why don&#39;t stores accept bitcoin?</title>
+      <link>https://digbycampbell.github.io/posts/8-merchant-adoption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/2-using-bitcoin/</guid>
-      <description>Bitcoin keeps a ledger of transactions between participants on the bitcoin network.
-When Andreas and Barry would like to conduct a transaction on the bitcoin network, Andreas sends bitcoin he controls to Barry&amp;rsquo;s address, and the transaction is denominated in bitcoin units (BTC).
-The bitcoin ledger was designed to be used as money, but a bitcoin transaction and the bitcoin network is independent from existing financial and banking systems. Because bitcoin is independent of existing monetary and financial networks, it is possible to use bitcoin anywhere in the world with access to the internet.</description>
+      <guid>https://digbycampbell.github.io/posts/8-merchant-adoption/</guid>
+      <description>There are challenges for merchants who would like to accept bitcoin as payment. Sales taxes and income tax must be paid in local currency, and some governments impose specific taxes on bitcoin transactions.
+The bitcoin network makes no allowance for government accounting requirements, so it is the responsibility of the individual to ensure they are compliant.
+Bitcoin developers and businesses are designing systems and services which make it easier for sellers to accept bitcoin, converting received coins directly into currency and keeping accounting records.</description>
     </item>
     
     <item>
-      <title>1 / Bitcoin is software</title>
-      <link>https://digbycampbell.github.io/posts/1-bitcoin-is-software/</link>
-      <pubDate>Tue, 01 Feb 2022 09:38:33 +1300</pubDate>
+      <title>09 / What does a bitcoin transaction cost?</title>
+      <link>https://digbycampbell.github.io/posts/9-transaction-cost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/1-bitcoin-is-software/</guid>
-      <description>The bitcoin software connects thousands or millions of computers of people who choose to participate, and monitors and enables transactions between participants on the network.
-The software distributes (a maximum of) 21 million bitcoin, which participants of the network can use to transact with one another. Each bitcoin is divisible to be more practical to use.
-Humans&#39; desires to transact facilitated the emergence of money, a technology with a long history of development.</description>
+      <guid>https://digbycampbell.github.io/posts/9-transaction-cost/</guid>
+      <description>Bitcoin transactions are broadcast by participants across the network, and organised into blocks, which take place approximately every 10 minutes.
+Blocks have a fixed maximum size, and senders of transactions &amp;lsquo;bid&amp;rsquo; for the right to have their transaction allocated to a block.
+When there is low demand for block space, transaction costs fall to the minimum (1sat/vbyte) and a basic transaction costs about 4 cents. When there is high demand to transact on the network, transaction costs rise as users outbid one another in a competition for block space.</description>
+    </item>
+    
+    <item>
+      <title>10 / What is the lightning network?</title>
+      <link>https://digbycampbell.github.io/posts/10-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/10-lightning-network/</guid>
+      <description>The lightning network is software which makes use of bitcoin to facilitate transactions.
+The lightning network is enabled by the bitcoin network much like modern websites might make use of a tech stack like Amazon Web Services, or like an internet connection makes use of a copper phone line.
+Participants on the lightning network connect to peers and form ‘payment channels’ between them. Information about payment channels is shared amongst nodes on the network to allow visibility of the network as a mesh.</description>
     </item>
     
   </channel>

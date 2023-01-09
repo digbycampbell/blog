@@ -4,10 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>3 / Why is bitcoin useful? | blog</title>
+    <title>09 / What does a bitcoin transaction cost? | blog</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
-This is not the case for as many as 2.">
+    <meta name="description" content="Bitcoin transactions are broadcast by participants across the network, and organised into blocks, which take place approximately every 10 minutes.
+Blocks have a fixed maximum size, and senders of transactions &lsquo;bid&rsquo; for the right to have their transaction allocated to a block.
+When there is low demand for block space, transaction costs fall to the minimum (1sat/vbyte) and a basic transaction costs about 4 cents. When there is high demand to transact on the network, transaction costs rise as users outbid one another in a competition for block space.">
     <meta name="generator" content="Hugo 0.92.1" />
     
     
@@ -28,24 +29,27 @@ This is not the case for as many as 2.">
 
     
 
-    <meta property="og:title" content="3 / Why is bitcoin useful?" />
-<meta property="og:description" content="If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
-This is not the case for as many as 2." />
+    <meta property="og:title" content="09 / What does a bitcoin transaction cost?" />
+<meta property="og:description" content="Bitcoin transactions are broadcast by participants across the network, and organised into blocks, which take place approximately every 10 minutes.
+Blocks have a fixed maximum size, and senders of transactions &lsquo;bid&rsquo; for the right to have their transaction allocated to a block.
+When there is low demand for block space, transaction costs fall to the minimum (1sat/vbyte) and a basic transaction costs about 4 cents. When there is high demand to transact on the network, transaction costs rise as users outbid one another in a competition for block space." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://digbycampbell.github.io/posts/3-why-bitcoin/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2022-02-02T16:35:06+13:00" />
-<meta property="article:modified_time" content="2022-02-02T16:35:06+13:00" />
-<meta property="og:see_also" content="https://digbycampbell.github.io/posts/1-bitcoin-is-software/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/2-using-bitcoin/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/4-is-bitcoin-safe/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/5-buy-with-bitcoin/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/6-satoshi/" />
+<meta property="og:url" content="https://digbycampbell.github.io/posts/9-transaction-cost/" /><meta property="article:section" content="posts" />
 
-<meta itemprop="name" content="3 / Why is bitcoin useful?">
-<meta itemprop="description" content="If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
-This is not the case for as many as 2."><meta itemprop="datePublished" content="2022-02-02T16:35:06+13:00" />
-<meta itemprop="dateModified" content="2022-02-02T16:35:06+13:00" />
-<meta itemprop="wordCount" content="186">
+
+<meta property="og:see_also" content="https://digbycampbell.github.io/posts/1-bitcoin-is-software/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/2-using-bitcoin/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/3-bitcoin-value/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/4-buy-with-bitcoin/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/5-why-bitcoin/" /><meta property="og:see_also" content="https://digbycampbell.github.io/posts/6-is-bitcoin-safe/" />
+
+<meta itemprop="name" content="09 / What does a bitcoin transaction cost?">
+<meta itemprop="description" content="Bitcoin transactions are broadcast by participants across the network, and organised into blocks, which take place approximately every 10 minutes.
+Blocks have a fixed maximum size, and senders of transactions &lsquo;bid&rsquo; for the right to have their transaction allocated to a block.
+When there is low demand for block space, transaction costs fall to the minimum (1sat/vbyte) and a basic transaction costs about 4 cents. When there is high demand to transact on the network, transaction costs rise as users outbid one another in a competition for block space.">
+
+<meta itemprop="wordCount" content="113">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="3 / Why is bitcoin useful?"/>
-<meta name="twitter:description" content="If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.
-This is not the case for as many as 2."/>
+<meta name="twitter:title" content="09 / What does a bitcoin transaction cost?"/>
+<meta name="twitter:description" content="Bitcoin transactions are broadcast by participants across the network, and organised into blocks, which take place approximately every 10 minutes.
+Blocks have a fixed maximum size, and senders of transactions &lsquo;bid&rsquo; for the right to have their transaction allocated to a block.
+When there is low demand for block space, transaction costs fall to the minimum (1sat/vbyte) and a basic transaction costs about 4 cents. When there is high demand to transact on the network, transaction costs rise as users outbid one another in a competition for block space."/>
 
 	
   </head>
@@ -103,21 +107,19 @@ This is not the case for as many as 2."/>
       </aside>
       
       <span class="f6 mv4 dib tracked"> [Bitcoin 101] </span><br>
-      <h1 class="f1 avenir mt3 mb1">3 / Why is bitcoin useful?</h1>
+      <h1 class="f1 avenir mt3 mb1">09 / What does a bitcoin transaction cost?</h1>
       
       
-      
-      <time class="f6 mv4 dib tracked" datetime="2022-02-02T16:35:06+13:00">February 2, 2022</time>
       
 
       
       
 
     </header>
-    <div class="nested-copy-line-height lh-copy baskerville f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>If you are reading this, you probably live in a developed country whose financial system was designed in the 20th century, and has been relatively unchanged throughout your lifetime. Banks, financial institutions and governments in your country (in your lifetime) have always provided access to financial technology such as cheques, insurance, savings accounts, mortgages, credit checks, credit cards and debit cards.</p>
-<p>This is not the case for as many as 2.5 billion people worldwide, who are unbanked. Without financial technology, individuals have less ability to save, less access to capital, and fewer options when making investments.</p>
-<p>The bitcoin network is open and accessible to all, and unbanked individuals can freely participate and make use of financial technology for the first time. Bitcoin is the most advanced financial technology ever developed and this technology could allow the unbanked to leapfrog the developed world - like providing smart phones to African countries who never had landlines.</p>
-<p>Because there will only ever be a fixed number of bitcoin, as adoption of the bitcoin network increases there will be less bitcoin to satisfy demand, and the price will rise.</p>
+    <div class="nested-copy-line-height lh-copy baskerville f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Bitcoin transactions are broadcast by participants across the network, and organised into blocks, which take place approximately every 10 minutes.</p>
+<p>Blocks have a fixed maximum size, and senders of transactions &lsquo;bid&rsquo; for the right to have their transaction allocated to a block.</p>
+<p>When there is low demand for block space, transaction costs fall to the minimum (1sat/vbyte) and a basic transaction costs about 4 cents. When there is high demand to transact on the network, transaction costs rise as users outbid one another in a competition for block space.</p>
+<p>Bitcoin developers and businesses are innovating new methods and techniques on the bitcoin network to reduce transaction costs, such as the Lightning Network.</p>
 <p><a href="https://bitcoinwhitepaper.co">https://bitcoinwhitepaper.co</a></p>
 <ul class="pa0">
   
