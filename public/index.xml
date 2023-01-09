@@ -8,14 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jan 2023 14:49:52 +1300</lastBuildDate><atom:link href="https://digbycampbell.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Command Line</title>
-      <link>https://digbycampbell.github.io/posts/command-line/</link>
+      <title>Day 1</title>
+      <link>https://digbycampbell.github.io/posts/day-1/</link>
       <pubDate>Mon, 09 Jan 2023 14:49:52 +1300</pubDate>
       
-      <guid>https://digbycampbell.github.io/posts/command-line/</guid>
+      <guid>https://digbycampbell.github.io/posts/day-1/</guid>
       <description>Command line is a way to control files, folders and applications on your computer by using text commands instead of using a mouse.
 Command line feels a little bit like writing a piece of legislation about something simple - it seems clunky to have to describe in words, but its very precise.
-I&amp;rsquo;ve used command line before so I didn&amp;rsquo;t have any issue doing this section quickly - I used: ls - list folder contents cd - change directory ~ - return to home directory cat - print out a file contents less - file viewer touch - create new file</description>
+I&amp;rsquo;ve used command line before so I didn&amp;rsquo;t have any issue doing this section quickly - I used:</description>
     </item>
     
     <item>

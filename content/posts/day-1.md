@@ -18,6 +18,6 @@ I've used command line before so I didn't have any issue doing this section quic
   less  - file viewer  
   touch - create new file
 
-  **Version Control with Git** explained what the functions of git are. Github is to git, what dropbox is to windows explorer - with loads of social/collaborative features built on top into a nice to use browser interface
+  **Version Control with Git** explained what the functions of git are. Github is to git, what dropbox is to windows explorer - with loads of social/collaborative features built into an easy browser interface
 
-  Fortunately I've used this software and website before so I know the difference well, but its always a bit rusty to use it again (from the command line) when I haven't used it in a while. Good practice!
+  From my previous experience with git and github, I've learned the difference - but its always a bit rusty to use it again (from the command line) when I haven't used it in a while. Good practice!
