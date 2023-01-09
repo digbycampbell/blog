@@ -19,5 +19,15 @@ I&amp;rsquo;ve used command line before so I didn&amp;rsquo;t have any issue doi
 ls - list folder contents</description>
     </item>
     
+    <item>
+      <title>Day 1</title>
+      <link>https://digbycampbell.github.io/posts/day-2/</link>
+      <pubDate>Mon, 09 Jan 2023 14:49:52 +1300</pubDate>
+      
+      <guid>https://digbycampbell.github.io/posts/day-2/</guid>
+      <description>Learning to Branch, Pull, Merge demonstrated interesting git features, which I imagine are useful for working in a team or an organisation.
+The main or master branch is like the &amp;lsquo;stable&amp;rsquo; version of your code. It should be the most up to date &amp;lsquo;working&amp;rsquo; version of your code. When you want to work on a new idea, or make bug fixes or changes that you aren&amp;rsquo;t yet sure about - you should create a seperate branch to work on until they&amp;rsquo;re ready to be merged into the code later on.</description>
+    </item>
+    
   </channel>
 </rss>

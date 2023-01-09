@@ -23,7 +23,7 @@ I've used command line before so I didn't have any issue doing this section quic
   From my previous experience with git and github, I've learned the difference - but its always a bit rusty to use it again (from the command line) when I haven't used it in a while. Good practice!
 
 
-**Install and Explore Git** was a useful course which tightened up some of my pre-existing knowledge of git and added some new stuff which would be much more useful in larger projects (git show, git log)
+Practicing **Install and Explore Git** tightened up on my previous knowledge of git and added some new stuff which would be much more useful in larger projects (git show, git log)
 
 A git workflow would generally go something like:  
   git init
@@ -33,5 +33,6 @@ A git workflow would generally go something like:
   git remote add
   git push
 
-Overall this went quite smoothly - I was familiar with the content in advance and still enjoyed the material
+This segment went quite smoothly - I was familiar with the content in advance and still enjoyed the material
 
+**Track and Commit** A stage and commit is like preparing an envelope to be mailed. Placing objects into the envelope is 'staging' the items, and closing and dropping the envelope in the post is 'committing' the files.
