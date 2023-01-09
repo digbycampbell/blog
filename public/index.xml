@@ -14,8 +14,9 @@
       
       <guid>https://digbycampbell.github.io/posts/day-1/</guid>
       <description>Command line is a way to control files, folders and applications on your computer by using text commands instead of using a mouse.
-Command line feels a little bit like writing a piece of legislation about something simple - it seems clunky to have to describe in words, but its very precise.
-I&amp;rsquo;ve used command line before so I didn&amp;rsquo;t have any issue doing this section quickly - I used:</description>
+Using command line feels like writing legislation about something simple like driving a car - it feels clunky, but it can be very precise.
+I&amp;rsquo;ve used command line before so I didn&amp;rsquo;t have any issue doing this section quickly - I used:
+ls - list folder contents</description>
     </item>
     
     <item>
